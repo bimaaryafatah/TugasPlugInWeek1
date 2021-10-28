@@ -1,0 +1,21 @@
+fun main() {
+
+    var Nama = "Bima Arya Fatah"
+    var NIM = "21090029"
+    var TTL = "23 gustus 2003"
+    var Prodi = "Teknik Informatika"
+
+    val Nama : String = "Bima Arya Fatah"
+    val NIM : String = "21090029"
+    val TTL : String = "23 Agustus 2003"
+    val Prodi : String = " Teknik Informatika"
+    println(Nama)
+    println(NIM)
+    println(TTL)
+    println(Prodi)
+    println(Nama.length)
+    println(NIM.length)
+    println(TTL.length)
+    println(Prodi.length)
+
+}
